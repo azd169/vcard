@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andrea De Stefano
+N:De Stefano;Andrea;;;
+TITLE:Assistant Professor | Forestry Extension
+ORG:Mississippi State University;Coastal Research and Extension Center
+ADR;TYPE=work:;;South Mississippi Branch Experiment Station, 810 MS-26;Poplarville;MS;39470;USA
+TEL;TYPE=work,voice:+1-601-403-8798
+TEL;TYPE=cell,voice:+1-662-867-3645
+EMAIL;TYPE=work:ads992@msstate.edu
+URL:https://extension.msstate.edu
+END:VCARD
