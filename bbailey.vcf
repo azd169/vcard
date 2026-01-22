@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Butch Bailey
+N:Bailey;Butch;;;
+TITLE:Extension Forester
+ORG:Mississippi State University Extension
+ADR;TYPE=work:;;Lamar County Extension Office, 216 Shelby Street;Purvis;MS;39475;USA
+TEL;TYPE=work,voice:+1-601-794-0671
+TEL;TYPE=cell,voice:+1-601-606-6742
+EMAIL;TYPE=work:butch.bailey@msstate.edu
+URL:https://extension.msstate.edu
+END:VCARD
